@@ -1,1 +1,4 @@
-
+Lab 2-1 on Cengage
+[Cengage Lab 2-1 9_03_2025.pdf](https://github.com/user-attachments/files/22124950/Cengage.Lab.2-1.9_03_2025.pdf)
+Summary: I learned that it is really easy to crack passwords and there are alot of risk in cyber. Defenses only really work so long as technology advances and that is really scary considering many peoople don't use super strong passwords. Even some passwords that are considered strong are easy to crack with the free password crackers online. The only real way to defend yourself from these hackers with these tools is MFA because a password is not that hard to crack using tools like this. 
+My personal Practices: My personal practices will change only slightly by trying to make my passwords stronger and ensuring I have MFA on everything to try and better protect myself against some people that could use these tools maliciously. 
